@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-using PJ.EasyRestApi;
+using PJ.Easy.RestApi;
 
 public class TextureApiHandler : RestApiHandler
 {

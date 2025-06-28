@@ -1,6 +1,6 @@
 {
-    "name": "PJ.EasyRestApi",
-    "rootNamespace": "PJ.EasyRestApi",
+    "name": "PJ.Easy.RestApi",
+    "rootNamespace": "PJ.Easy.RestApi",
     "references": [
         "GUID:6eb24e5e885577d41bc7016e0c6b65b0"
     ],

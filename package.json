@@ -1,5 +1,5 @@
 {
-    "name": "com.pj.easyrestapi",
+    "name": "com.pj.easy.restapi",
     "version": "1.0.0",
     "displayName": "EasyRestApi",
     "description": "A custom Unity package to manage restapi calls.",
@@ -8,6 +8,6 @@
         "name": "Pratik Jagodra"
     },
     "dependencies": {
-        "com.pj.easyutils": "1.0.0"
+        "com.pj.easy.utils": "1.0.0"
     }
 }

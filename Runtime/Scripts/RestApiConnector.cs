@@ -3,9 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
-using PJ.EasyUtils;
+using PJ.Easy.Utils;
 
-namespace PJ.EasyRestApi
+namespace PJ.Easy.RestApi
 {
     public class RestApiConnector : SelfPersistentSingletonMonoBehaviour<RestApiConnector>
     {

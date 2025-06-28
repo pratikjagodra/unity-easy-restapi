@@ -1,6 +1,6 @@
 using UnityEngine.Networking;
 
-namespace PJ.EasyRestApi
+namespace PJ.Easy.RestApi
 {
     public static class ApiExtensions
     {

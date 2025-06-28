@@ -1,7 +1,7 @@
 using UnityEngine;
-using PJ.EasyUtils;
+using PJ.Easy.Utils;
 
-namespace PJ.EasyRestApi
+namespace PJ.Easy.RestApi
 {
     [CreateAssetMenu(fileName = "RestApiConfig", menuName = "ScriptableObjects/RestApiConfig")]
     public class RestApiConfig : SingletonScriptableObject<RestApiConfig>
