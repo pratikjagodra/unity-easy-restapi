@@ -8,6 +8,6 @@
         "name": "Pratik Jagodra"
     },
     "dependencies": {
-        "com.pj.easyutils": "file:D:/UnityProjects/MyPlugins/unity-easy-utils"
+        "com.pj.easyutils": "https://github.com/pratikjagodra/unity-easy-utils.git"
     }
 }
