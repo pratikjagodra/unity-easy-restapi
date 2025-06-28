@@ -1,0 +1,13 @@
+{
+    "name": "com.pj.easyrestapi",
+    "version": "1.0.0",
+    "displayName": "EasyRestApi",
+    "description": "A custom Unity package to manage restapi calls.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Pratik Jagodra"
+    },
+    "dependencies": {
+        "com.pj.easyutils": "file:D:/UnityProjects/MyPlugins/unity-easy-utils"
+    }
+}
